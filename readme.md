@@ -1,7 +1,7 @@
 ### Hi 👋, I'm Luis Melgarejo 
 #### A Software Developer From Perú 
 ------------ 
-I'm a tenth cycle student of the Systems Engineering and Computer Science degree
+I'm a graduate of Systems Engineering and Computer Science
 at the Technological University of Peru. I have experience in the development of
 web, desktop and mobile applications.
 
